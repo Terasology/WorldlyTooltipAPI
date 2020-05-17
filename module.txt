@@ -1,9 +1,10 @@
 {
-    "id" : "WorldlyTooltipAPI",
-    "version" : "0.1.0-SNAPSHOT",
-    "author" : "nihal111",
-    "displayName" : "WorldlyTooltipAPI",
-    "description" : "",
-    "dependencies" : [],
-    "serverSideOnly" : false
+    "id": "WorldlyTooltipAPI",
+    "version": "1.0.0",
+    "author": "nihal111",
+    "displayName": "Worldly Tooltip - API",
+    "description": "Library module for WorldlyTooltip",
+    "dependencies": [],
+    "serverSideOnly": false,
+    "isLibrary": true
 }
