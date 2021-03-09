@@ -15,8 +15,8 @@
  */
 package org.terasology.worldlyTooltipAPI.events;
 
-import org.terasology.entitySystem.event.Event;
-import org.terasology.rendering.assets.texture.TextureRegion;
+import org.terasology.engine.entitySystem.event.Event;
+import org.terasology.engine.rendering.assets.texture.TextureRegion;
 
 /*
  *  This event is sent from the WorldlyTooltipAPI module while setting the icon,

@@ -15,7 +15,7 @@
  */
 package org.terasology.worldlyTooltipAPI.events;
 
-import org.terasology.entitySystem.event.Event;
+import org.terasology.engine.entitySystem.event.Event;
 
 /*
  *  This event is sent from the WorldlyTooltipAPI module while setting the name,
